@@ -1,0 +1,15 @@
+.dropzoneWrapper {
+  border: 2px dashed #cccccc;
+  border-radius: 4px;
+  padding: 20px;
+  cursor: pointer;
+  margin: 20px;
+}
+
+.activeDropzone {
+  background-color: red;
+}
+
+.inputWrapper {
+  cursor: pointer;
+}
